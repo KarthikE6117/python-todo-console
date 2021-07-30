@@ -1,4 +1,5 @@
 # python-todo-console
+  A simple todo python console application to manage our todo events.
 ```
 Usage :-
 $ ./todo add "todo item"  # Add a new todo
